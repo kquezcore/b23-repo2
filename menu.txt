@@ -6,15 +6,21 @@ expresso 3.25
 
 iced coffee	2.88	300 cal
 
-lunchnemu:
+lunch menu:
+
 butter chicken 1200 cal 10.99
 polo  2000  cal 15.99
-
 Burguer  10000 cal 5.99
-
 veggie bowl     10 cal 5.89
 burritos 500 cal 3.99
-
 doner 400 cal 8.99
-
 kebob 500 cal 9.99
+
+
+steak  600 call 13.99
+sandwich 400 cal 4.99
+
+pizza 3000 cal 9.99
+soup 5 cal 3.99
+
+steamed dumpling 
